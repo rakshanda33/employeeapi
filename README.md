@@ -19,3 +19,7 @@ This project demonstrates a production-ready Spring Boot REST API integrated wit
 
 ## Status
 🟡 Project setup in progress
+
+## Current Status
+- Basic controllers implemented
+- Endpoints tested on localhost
